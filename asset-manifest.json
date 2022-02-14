@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simulacro/static/css/main.6a31e4ee.css",
+    "main.js": "/Simulacro/static/js/main.ce94584d.js",
+    "index.html": "/Simulacro/index.html",
+    "main.6a31e4ee.css.map": "/Simulacro/static/css/main.6a31e4ee.css.map",
+    "main.ce94584d.js.map": "/Simulacro/static/js/main.ce94584d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a31e4ee.css",
+    "static/js/main.ce94584d.js"
+  ]
+}
